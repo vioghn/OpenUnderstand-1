@@ -11,6 +11,7 @@ __version__ = "1.0.0"
 import os
 from fnmatch import fnmatch
 
+
 from antlr4 import *
 
 from analysis_passes.variable_listener_G11 import VariableListener
